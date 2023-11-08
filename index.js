@@ -6,7 +6,7 @@ let night = function(){
     sun.style.backgroundColor = "rgb (236, 226, 76)";
     moon.style.transition = "8s";
     moon.style.marginLeft = "120px";
-    document.body.style.transition = "15s";
+    document.body.style.transition = "11s";
     document.body.style.backgroundColor = "#e4e4ff";
 }
 
